@@ -1,0 +1,28 @@
+nome,data_entrada,data_fim,duracao
+
+
+José Sarney	Sarney
+de 15 de março de 1985 até 15 de março de 1990
+(5 anos)
+
+Fernando Collor	Fernando Collor
+de 1992 até 29 de dezembro de 1992
+(2 anos e 289 dias)
+
+33	Itamar Franco
+de 29 de dezembro de 1992 até 1 de janeiro de 1995
+(2 anos e 3 dias)
+
+34	Fernando Henrique Cardoso de janeiro
+de 1995 até 1 de janeiro de 2003
+(8 anos)
+
+35	Luiz Inácio Lula da Silva
+de 1 de janeiro de 2003 atém 1 de janeiro de 2011
+(8 anos)
+
+36 Dilma Rousseff
+de 1 de janeiro de 2011 até 31 de agosto de 2016
+(5 anos e 243 dias)
+
+37	Michel Temer 31 de agosto de 2016 (1 ano e 284 dias até o momento)
